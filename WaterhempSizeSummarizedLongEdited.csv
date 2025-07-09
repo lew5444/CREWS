@@ -1,4 +1,4 @@
-quadrat,block,strip,wh_dens,cc,size,count,size_in,cc_mgmt
+quadrat,block,strip,wh_dens,cc,size,count,size_in,management
 122,1,12,5000,bare,1,0,0.4,bare
 123,1,12,500,bare,1,0,0.4,bare
 124,1,12,50,bare,1,0,0.4,bare
